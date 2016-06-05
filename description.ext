@@ -1,6 +1,6 @@
 //-------------------------On Load
 author = "alganthe";                                    // Visible when loading mission
-onLoadName = "Co-ops";                                  // Visible when loading mission
+onLoadName = "Co-ops AW_edit 1.2.250";  // Visible when loading mission
 OnLoadMission = "";
 loadScreen = "";
 overviewPicture = "Data\Co_ops_loadingImage.paa";
