@@ -99,6 +99,11 @@ if !(isServer or hasInterface) then {
             }
         ];
 
+        _x addAction [
+            "<t color='#cc00cc'>Take earplugs</t>",
+            "scripts\misc\earplugs.sqf"
+        ];
+
         if (derp_PARAM_paraJumpEnabled) then {
             _x addAction [
             "<t color='#FF6600'>Paradrop on AO</t>",
