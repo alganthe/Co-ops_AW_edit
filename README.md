@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/alganthe/Co-ops-an-arma3-vanilla-mission/releases">
-        <img src="https://img.shields.io/github/release/alganthe/Co-ops.svg">
+    <a href="https://github.com/alganthe/Co-ops_AW_edit/releases">
+        <img src="https://img.shields.io/github/release/alganthe/Co-ops_AW_edit.svg">
     </a>
 
     <a href="https://github.com/alganthe/Co-ops-an-arma3-vanilla-mission/issues">
@@ -16,14 +16,4 @@
     </a>
 </p>
 
-Co-ops is a vanilla mission based on PFHs being ported to vanilla.
-Features:
-   - A custom revive system
-   - A custom vehicle handler
-   - A custom set of functions to limit equipment
-   - Easy to install
-   - Highly customizable
-   - Automatic AO generation using towns, cities and villages already present on the map
-   - 5 different types of side missions
-   - Easy to port to other maps
-   - Made with performance in mind
+This is the AW edit of Co-ops, check the main repo: https://github.com/alganthe/Co-ops
