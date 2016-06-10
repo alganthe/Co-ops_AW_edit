@@ -16,7 +16,7 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=214;
+		nextID=215;
 	};
 	class Camera
 	{
@@ -310,7 +310,7 @@ class Mission
 {
 	class Intel
 	{
-		briefingName="Co-ops 1.2.256 AW edition";
+		briefingName="Co-ops 1.2.262 AW edition";
 		resistanceWest=0;
 		resistanceEast=1;
 		timeOfChanges=28800;
