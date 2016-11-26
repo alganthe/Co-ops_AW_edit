@@ -14,6 +14,10 @@
     <a href="https://github.com/alganthe/Co-ops/wiki">
         <img src="https://img.shields.io/badge/documentation-click%20here-red.svg">
     </a>
+
+    <a href="https://github.com/alganthe/Co-ops/blob/master_tanoa/LICENSE">
+        <img src="https://img.shields.io/badge/License-GPLv2-lightgrey.svg">
+    </a>
 </p>
 
 This is the AW edit of Co-ops, check the main repo: https://github.com/alganthe/Co-ops

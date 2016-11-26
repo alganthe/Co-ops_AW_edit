@@ -10,11 +10,7 @@ class derp {
         class waitUntilAndExecute {};
         class pfhPostInit { postInit = 1; };
         class getTurret {};
-    };
-
-    class ACE3 {
-        file = "functions\portedFuncs\ace3";
-        class progressBar {};
+        class directCall {};
     };
 
     class misc {
@@ -31,11 +27,12 @@ class derp {
         class paradrop {};
         class gearLimitations {};
         class remoteAddCuratorEditableObjects {};
-        class syncAnim {};
         class mapLinesHandler {};
         class baseCleaning {};
         class cleaner {};
         class crewNames {};
+        class shortNights {};
+        class randomPos {};
     };
 
     class AI {
@@ -43,6 +40,11 @@ class derp {
         class mainAOSpawnHandler {};
         class AISkill {};
         class AIOccupyBuilding {};
+    };
+
+    class SM {
+        file = "functions\side missions";
+        class droppedCargoSM_action {};
     };
 };
 
@@ -65,6 +67,12 @@ class derp_revive {
         class uiElements {};
         class animChanged {};
         class drawDowned {};
+        class handleDamage {};
+        class ace3Check {};
+        class diaryEntries {};
+        class adjustForTerrain {};
+        class syncAnim {};
+        class heartBeatPFH {};
     };
 };
 
